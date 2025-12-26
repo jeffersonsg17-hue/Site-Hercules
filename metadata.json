@@ -1,0 +1,8 @@
+{
+  "name": "Site - Herculles Alexandre",
+  "description": "Uma plataforma estratégica de consultoria financeira focada em restaurar a ordem e a paz nas famílias através do Método O.F.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
